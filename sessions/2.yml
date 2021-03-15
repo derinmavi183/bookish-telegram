@@ -20,6 +20,22 @@
     - sweeter than thou
     - i'm up
     - lift me up
+   words:
+    - sweet
+    - ruined
+    - old
+    - feel
+    - cold
+    - bold
+    - up
+    - felt
+    - hell
+    - travel
+    - serv
+    - star
+    - car
+    - far
+    - plain
    translated:
     - sadelik
     - uzaklara gitmek
@@ -33,6 +49,71 @@
     - bilememek
     - daha tatlı
     - yükselmek
+
+
+sentence
+boredom
+changing the system
+from within
+reward
+weapons
+skin
+birthmark
+heavens
+guided
+we take
+pray
+night
+work
+discipline
+stow
+way
+practice
+ready
+guided
+remember
+
+
+love
+being told
+train
+station
+clothes
+spirith
+body
+live
+baby
+beside you
+gifts
+
+fashion
+business
+drugs
+thin
+sister
+I was one of those
+monkey
+violin
+brought
+groceries
+wounded
+loser
+winner
+everybody
+Father's Day
+
+
+- type: empower
+  main: object
+  translate: obje
+
+- type: empower
+  main: win
+  translate: kazanmak
+
+- type: empower
+  main: loose
+  translate: kaybetmek
 
 - type: empower
   main: death
@@ -49,7 +130,6 @@
 - type: empower
   main: good
   translate: iyi
-
 
 - type: coralate
   main: animal
