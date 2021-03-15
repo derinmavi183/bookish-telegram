@@ -1,0 +1,100 @@
+- type: session
+  title: lift me up
+  category: song
+  lines:
+    - plain talking
+    - take us so far
+    - broken down cars
+    - like strung out old stars
+    - served us so well
+    - traveled through hell
+    - we know how it felt
+    - lift me up
+    - higher now
+    - push me up
+    - making us bold
+    - so strung out and cold
+    - feeling so old
+    - has ruined us now
+    - you never know how
+    - sweeter than thou
+    - i'm up
+    - lift me up
+   translated:
+    - sadelik
+    - uzaklara gitmek
+    - güçlü yıldızlar
+    - iyi hizmet etmesi
+    - cehenneme yolculuk
+    - iyi hissettirmek
+    - ileri ittirmek
+    - öne çıkarmak
+    - mahvetmek
+    - bilememek
+    - daha tatlı
+    - yükselmek
+
+- type: empower
+  main: death
+  translate: ölüm
+
+- type: empower
+  main: nature
+  translate: doğa
+
+- type: empower
+  main: god
+  translate: tanrı
+
+- type: empower
+  main: good
+  translate: iyi
+
+
+- type: coralate
+  main: animal
+  second: nature
+  category: causes
+
+
+
+marriage -> social, sex
+woman -> social,sex
+man -> social,sex
+shirt -> money, sex, clothes, necessity
+people -> social, expendible
+
+ship -> economic class
+economic class -> money
+
+-type : coralate
+ main: jean
+ second:  clothes
+ category: simple category
+
+- type: empower
+  main: modernity
+
+- type: coralate
+  main: death
+  second: war
+  category: causes
+  power: 1
+ 
+- type: coralate
+  main: death
+  second: sickness
+  category: causes
+  power: 1
+ 
+- type: coralate
+  main: death
+  second: anxiety
+  category: causes
+  power: 1
+ 
+- type: coralate
+  main: death
+  second: life
+  category: alternative of
+  power: 1
