@@ -21,6 +21,7 @@
     - i'm up
     - lift me up
    words:
+    - talk
     - sweet
     - ruined
     - old
@@ -31,7 +32,7 @@
     - felt
     - hell
     - travel
-    - serv
+    - serve
     - star
     - car
     - far
@@ -50,57 +51,57 @@
     - daha tatlı
     - yükselmek
 
-
-sentence
-boredom
-changing the system
-from within
-reward
-weapons
-skin
-birthmark
-heavens
-guided
-we take
-pray
-night
-work
-discipline
-stow
-way
-practice
-ready
-guided
-remember
-
-
-love
-being told
-train
-station
-clothes
-spirith
-body
-live
-baby
-beside you
-gifts
-
-fashion
-business
-drugs
-thin
-sister
-I was one of those
-monkey
-violin
-brought
-groceries
-wounded
-loser
-winner
-everybody
-Father's Day
+- type: session
+  title: First We Take Manhattan
+  category: song
+  words:
+  - sentence
+  - boredom
+  - changing the system
+  - from within
+  - reward
+  - weapons
+  - skin
+  - birthmark
+  - heavens
+  - guided
+  - we take
+  - pray
+  - night
+  - work
+  - discipline
+  - stow
+  - way
+  - practice
+  - ready
+  - guided
+  - remember
+  - love
+  - being told
+  - train
+  - station
+  - clothes
+  - spirith
+  - body
+  - live
+  - baby
+  - beside you
+  - gifts
+  - fashion
+  - business
+  - drugs
+  - thin
+  - sister
+  - I was one of those
+  - monkey
+  - violin
+  - brought
+  - groceries
+  - wounded
+  - loser
+  - winner
+  - everybody
+  - Father's Day
 
 
 - type: empower
@@ -146,11 +147,13 @@ people -> social, expendible
 
 ship -> economic class
 economic class -> money
+pleasure
 
--type : coralate
- main: jean
- second:  clothes
- category: simple category
+
+- type : coralate
+  main: jean
+  second:  clothes
+  category: simple category
 
 - type: empower
   main: modernity
