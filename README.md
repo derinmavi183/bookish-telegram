@@ -1,15 +1,17 @@
 # bookish-telegram
 
-This is a sample project about language classification. Designing UI's for easy classification.
-Seeing the power of the words and relations. Picking the themes (most powerfull meaning blocks even if its reffered.)
+* This is a sample project about language classification. 
+* Designing UI's for easy classification.
+* Seeing the impact of the words and relations.
+* Picking the themes (most powerfull meaning blocks even if its reffered.)
 
 * Poetry - Song Lyric Classification
 * https://www.kaggle.com/paultimothymooney/poetry?select=rihanna.txt
 
 
 * Marking by using keywords.
-* Creating an UI responsible for that.
-* relation analysis.
+* Creating an UI dealing with that.
+* To analyze relations between words.
 
 Sample:
 ---
@@ -31,10 +33,6 @@ We need to record the session completely for each user.
 1. Choose a song!
 2. Get song line by line.
 3. Write the words for the line.
-4. By interpretting line Choose from predefined themes or you can just create your own theme.
-5. Do the categorization.
-
-
-
-common word data
-similar word data
+4. Write category for each word.
+5. Write a theme for each word. Address the emotion for word. (Example: "iron" is a metal and natural. "spirith"  )
+6. Give point to each word.
